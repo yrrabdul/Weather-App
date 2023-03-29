@@ -1,2 +1,2 @@
 # Weather-App
-weather app in agular using open weather map api
+weather app in angular using open weather map api
